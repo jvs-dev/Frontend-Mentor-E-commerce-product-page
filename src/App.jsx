@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import './App.css'
 import Header from './components/Header'
 import styled from 'styled-components'
-import Slider from './components/slider'
+import Slider from './components/Slider'
 import Cart from './components/Cart'
 import Menu from './components/Menu'
 
